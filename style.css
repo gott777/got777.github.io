@@ -1,0 +1,39 @@
+.BodyBlock {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+
+
+
+.paragraph {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+
+
+footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+.needs-validation {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 1000px;
+    margin: 0 auto;
+   
+}
+
+
+.monster {
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
